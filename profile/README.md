@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👩‍💻 **알고리즘 스터디 사당(임시)🧑‍💻**
 
 <!--
 
@@ -10,3 +10,151 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# **[ 📋 정보 ]**
+
+- 기간: 2024.01.06 ~ 
+- 인원: 5명
+- 장소: 원루프 스터디룸 사당점 (대면 오프라인 스터디)
+- 시간: 13:00 - 15:00
+  
+# **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
+|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/7lo9ve3" width="130px;" style="max-width: 100%;">](https://github.com/7lo9ve3)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|
+|---|:---:|:---:|:---:|:---:|:---:|
+|이름|홍희표|권동휘|김다은|황인경|성보경|
+|주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
+|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)
+
+# **[ 📑 ‍이력 ]**
+
+- ✅: 참여
+- ⚠️: 불참(사유: o)
+- ❌: 불참(사유: x)
+- :octocat:: 스터디 새 멤버
+
+|일시|홍희표|권동휘|김다은|황인경|성보경|
+|---|:---:|:---:|:---:|:---:|:---:|
+|[2024.01.06]|✅|✅|✅|✅|✅|
+
+# **[ 🚫 규칙 ]**
+### **📌 디렉토리 구조**
+
+       ├ 📦패키지
+       ⎮    ├ 📁알고리즘 회차 디렉토리                ex) First, Second.....
+       ⎮    ⎮       ├ 📁알고리즘 분류               ex) Greedy
+       ⎮    ⎮       ⎮   ├ 📁문제번호               ex) Q1919
+       ⎮    ⎮       ⎮   ⎮   ├︎ 📃개인 문제 풀이      ex) Q1919_Huipyo-Hong
+       ⎮    ⎮       ⎮   ⎮   ├︎ 📃개인 문제 풀이
+       ⎮    ⎮       ⎮   ⎮   ├ 📃개인 문제 풀이
+       ⎮    ⎮       ⎮   ├ 📁문제번호  
+       ⎮    ⎮       ⎮   ⎮   ├︎ 📃개인 문제 풀이
+       ⎮    ⎮       ⎮   ├ 📁문제번호
+       ⎮    ⎮       ⎮   ⎮   ├ 📃개인 문제 풀이
+       ⎮    ⎮       ├ 📝README.md (해당 주 스터디 정리 README)
+       ├ 📝README.md (스터디 관련 설명 README)
+
+
+### **📌 파일 규칙**
+
+       1. 파일명 양식: 문제번호_풀이자 이름
+   
+           ex) Q7777_Huipyo-Hong.java
+
+       2. 해당 풀이에 대한 시간 및 메모리 사용량 기재
+           
+           ex) /**
+                *  [ 효율성 ]
+                *  - 메모리: 20176KB
+                *  - 시간 : 404ms
+               */
+
+### **📌 문제 선정 방법**
+- 한 사람당 1문제씩 선택.
+- 해당 주차 알고리즘으로 풀이가 가능한 문제로 선택 하시면 됩니다.
+- 난이도에 대한 별도의 기준은 없습니다.
+
+### **📌 스터디 불참 관련**
+- 연속으로 2주 빠지는 경우는 지양 부탁 드립니다.
+- 별도의 패널티는 존재하지 않습니다. (스스로 공부 하고자 하는 사람들의 모임)
+
+# **[ 🗓 일정 ]**
+### [ 1주차 ]
+- 분류: [스택(Stack)]
+- 일자: 2024.01.06
+- 문제:
+  
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[10828](https://www.acmicpc.net/problem/10828)|스택|Silver 4|스택|구현, 자료구조|
+|2|백준|[10773](https://www.acmicpc.net/problem/10773)|제로|Silver 4|스택|구현, 자료구조|
+|3|백준|[9012](https://www.acmicpc.net/problem/9012)|괄호|Silver 4|스택|문자열, 자료구조|
+|4|백준|[4949](https://www.acmicpc.net/problem/4949)|균형잡힌 세상|Silver 4|스택|문자열, 자료구조|
+|5|백준|[1874](https://www.acmicpc.net/problem/1874)|스택 수열|Silver 2|스택|자료구조|
+
+- 심화문제(Optional):
+ 
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|스택|자료구조|
+
+-----------------------------------
+### [ 2주차 ]
+- 분류:
+    - [큐(Queue)]
+    - [데크(Deque)]
+- 일자: 2024.01.13
+- 문제: 
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[18258](https://www.acmicpc.net/problem/18258)|큐2|Silver 4|큐|자료구조|
+|2|백준|[2164](https://www.acmicpc.net/problem/2164)|카드2|Silver 4|큐|자료구조|
+|3|백준|[11866](https://www.acmicpc.net/problem/11866)|요세푸스|Silver 5|큐|구현, 자료구조|
+|4|백준|[1996](https://www.acmicpc.net/problem/1996)|프린터 큐|Silver 3|큐|구현, 자료구조, 시뮬레이션|
+|5|백준|[10866](https://www.acmicpc.net/problem/10886)|덱|Silver 4|큐|구현, 자료구조|
+|6|백준|[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|Silver 3|큐|자료구조|
+|7|백준|[5430](https://www.acmicpc.net/problem/5430)|AC|Gold 5|큐|구현, 자료구조, 문자열, 파싱|
+    
+- 심화문제(Optional):
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|스택|구현, 자료구조, 시뮬레이션, 덱, 큐|
+
+-----------------------------------
+### [ 3주차 ]
+- 분류:
+    - [DFS(Depth First Search)]
+    - [백트래킹(BackTracking)]
+- 일자: 2024.01.20
+- 문제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|백트래킹|브루트포스|
+|2|백준|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|깊이 우선 탐색|그래프 이론, 그래프 탐색, 너비 우선 탐색|
+|3|백준|[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|Silver 2|백트래킹|브루트포스|
+|4|백준|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|백트래킹|브루트포스|
+|5|백준|[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|Silver 2|백트래킹|브루트포스|
+
+- 심화문제(Optional): X
+
+-----------------------------------
+### [ 4주차 ]
+- 분류: [BFS(Breadth First Search)](https://github.com/nashs789/GuroStudySecondRound/tree/main/SecondRound(2023.07)/4%EC%A3%BC%EC%B0%A8_BFS(2023.07.23))
+- 일자: 2024.01.27
+- 문제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|BFS|그래프 이론, 그래프 탐색|
+|2|백준|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|BFS|그래프 이론, 그래프 탐색, DFS|
+|3|백준|[1743](https://www.acmicpc.net/problem/1743)|음식물 피하기|Silver 1|BFS|그래프 이론, 그래프 탐색, DFS|
+|4|백준|[2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|Silver 1|BFS|그래프 이론, 그래프 탐색, DFS|
+|5|백준|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|BFS|그래프 이론, 그래프 탐색, DFS|
+
+- 심화문제(Optional):
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 4|BFS|구현, 그래프 이론, 그래프 탐색, 시뮬레이션|
