@@ -141,7 +141,7 @@
 
 -----------------------------------
 ### [ 4주차 ]
-- 분류: [BFS(Breadth First Search)](https://github.com/nashs789/GuroStudySecondRound/tree/main/SecondRound(2023.07)/4%EC%A3%BC%EC%B0%A8_BFS(2023.07.23))
+- 분류: [BFS(Breadth First Search)]
 - 일자: 2024.01.27
 - 문제:
 
