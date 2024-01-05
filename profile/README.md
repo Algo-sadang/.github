@@ -21,7 +21,7 @@
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
 |Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/7lo9ve3" width="130px;" style="max-width: 100%;">](https://github.com/7lo9ve3)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|
 |---|:---:|:---:|:---:|:---:|:---:|
-|이름|홍희표|권동휘|김다은|황인경|성보경|
+|이름|홍희표|권동휘|김다은|안인경|성보경|
 |주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
 |티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=7lo9ve3)](https://solved.ac/7lo9ve3)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)
 
@@ -32,7 +32,7 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|홍희표|권동휘|김다은|황인경|성보경|
+|일시|홍희표|권동휘|김다은|안인경|성보경|
 |---|:---:|:---:|:---:|:---:|:---:|
 |[2024.01.06]|✅|✅|✅|✅|✅|
 
