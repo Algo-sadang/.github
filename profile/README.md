@@ -108,7 +108,7 @@
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[10845](https://www.acmicpc.net/problem/10845)|큐|Silver 4|큐|자료구조|
 |2|백준|[11866](https://www.acmicpc.net/problem/11866)|요세푸스|Silver 5|큐|구현, 자료구조|
-|3|백준|[1996](https://www.acmicpc.net/problem/1996)|프린터 큐|Silver 3|큐|구현, 자료구조, 시뮬레이션|
+|3|백준|[12873](https://www.acmicpc.net/problem/12873)|기념품|Silver 4|큐|구현, 자료구조, 시뮬레이션|
     
 - 과제:
 
