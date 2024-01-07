@@ -25,7 +25,7 @@
 |주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
 |티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=7lo9ve3)](https://solved.ac/7lo9ve3)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)
 
-# **[ 📑 ‍이력 ]**
+# **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
 - ✅: 참여
 - ⚠️: 불참(사유: o)
@@ -37,7 +37,7 @@
 |[2024.01.06]|✅|✅|✅|✅|✅|
 |[2024.01.13]||||||
 
-# **[ 📑 ‍과제 해결 이력 ]**
+# **[ 📚 ‍과제 해결 이력 ]**
 
 - ✅: 해결
 - ❌: 미해결
