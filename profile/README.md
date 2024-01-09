@@ -54,8 +54,8 @@
        ├ 📦패키지
        ⎮    ├ 📁알고리즘 회차 디렉토리                ex) First, Second.....
        ⎮    ⎮       ├ 📁알고리즘 분류               ex) Greedy
-       ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo-Hong_X_Donghuii-Kwon
-       ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo-Hong
+       ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo_Hong_X_Donghuii_Kwon
+       ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q1919_Huipyo_Hong
        ⎮    ⎮       ⎮   ├ 📁과제  
        ⎮    ⎮       ⎮   ⎮   ├︎ 📃개인 문제 풀이
        ⎮    ⎮       ⎮   ⎮   ├︎ 📃개인 문제 풀이
@@ -66,7 +66,7 @@
 
        1. 파일명 양식: 문제번호_풀이자 이름
    
-           ex) Q7777_Huipyo-Hong.java
+           ex) Q7777_Huipyo_Hong.java
 
        2. 해당 풀이에 대한 시간 및 메모리 사용량 기재
            
