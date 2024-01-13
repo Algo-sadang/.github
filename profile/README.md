@@ -41,8 +41,7 @@
 # **[ 📚 ‍과제 해결 이력 ]**
 
 - 제출기한: 매주 목요일까지(금요일날 리뷰)
-
-[과제 제출 Repository](https://github.com/Algo-sadang/assignments)
+- [과제 제출 Repository](https://github.com/Algo-sadang/assignments)
 
 # **[ 🚫 규칙 ]**
 ### **📌 디렉토리 구조**
