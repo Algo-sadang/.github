@@ -41,15 +41,8 @@
 # **[ 📚 ‍과제 해결 이력 ]**
 
 - 제출기한: 매주 목요일까지(금요일날 리뷰)
-- ✅: 해결
-- ❌: 미해결
 
-|No|문제명|홍희표|권동휘|김다은|안인경|성보경|
-|-----|-----|:---:|:---:|:---:|:---:|:---:|
-|[2493](https://www.acmicpc.net/problem/2493)|탑|✅|✅|✅|❌|✅|
-|[2841](https://www.acmicpc.net/problem/2841)|외계인의 기타연주|✅|❌|✅|❌|✅|
-|[3190](https://www.acmicpc.net/problem/3190)|최애의 팀원||||||
-|[5464](https://www.acmicpc.net/problem/3190)|주차장||||||
+[과제 제출 Repository](https://github.com/Algo-sadang/assignments)
 
 # **[ 🚫 규칙 ]**
 ### **📌 디렉토리 구조**
