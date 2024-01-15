@@ -147,7 +147,6 @@
 |2|백준|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|깊이 우선 탐색|그래프 이론, 그래프 탐색, 너비 우선 탐색|
 |3|백준|[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|Silver 2|백트래킹|브루트포스|
 |4|백준|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|백트래킹|브루트포스|
-|5|백준|[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|Silver 2|백트래킹|브루트포스|
 
 - 과제: X
 
