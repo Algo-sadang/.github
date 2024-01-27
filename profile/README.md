@@ -21,9 +21,9 @@
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
 |Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/7lo9ve3" width="130px;" style="max-width: 100%;">](https://github.com/7lo9ve3)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|
 |---|:---:|:---:|:---:|:---:|:---:|
-|이름|홍희표|권동휘|김다은|안인경|성보경|
-|주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
-|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=7lo9ve3)](https://solved.ac/7lo9ve3)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)
+|이름|홍희표|권동휘|김다은|안인경|성보경|김혜수|
+|주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|
+|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=7lo9ve3)](https://solved.ac/7lo9ve3)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)|
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
@@ -32,12 +32,13 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|홍희표|권동휘|김다은|안인경|성보경|
-|---|:---:|:---:|:---:|:---:|:---:|
-|[2024.01.06]|✅|✅|✅|✅|✅|
-|[2024.01.13]|✅|✅|✅|✅|✅|
-|[2024.01.20]|✅|✅|✅|⚠️|✅|
-|[2024.01.27]||||||
+|일시|홍희표|권동휘|김다은|안인경|성보경|김혜수|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[2024.01.06]|✅|✅|✅|✅|✅||
+|[2024.01.13]|✅|✅|✅|✅|✅||
+|[2024.01.20]|✅|✅|✅|⚠️|✅|:octocat:|
+|[2024.01.27]|✅|✅|⚠️|❌|✅|✅|
+|[2024.02.03]|||||||
 
 # **[ 📚 ‍과제 해결 이력 ]**
 
@@ -163,11 +164,28 @@
 
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|BFS|그래프 이론, 그래프 탐색|
-|2|백준|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|BFS|그래프 이론, 그래프 탐색, DFS|
-|3|백준|[1743](https://www.acmicpc.net/problem/1743)|음식물 피하기|Silver 1|BFS|그래프 이론, 그래프 탐색, DFS|
-|4|백준|[2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|Silver 1|BFS|그래프 이론, 그래프 탐색, DFS|
-|5|백준|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|BFS|그래프 이론, 그래프 탐색, DFS|
+|1|백준|[25418](https://www.acmicpc.net/problem/25418)|정수 a를 k로 만들기|Silver 3|BFS|그래프 이론, 그래프 탐색, 다이나믹 프로그래밍|
+|2|백준|[25416](https://www.acmicpc.net/problem/25416)|빠른 숫자 탐색|Silver 2|BFS|그래프 이론, 그래프 탐색|
+|3|백준|[6146](https://www.acmicpc.net/problem/6146)|신아를 만나러|Silver 1|BFS|그래프 이론, 그래프 탐색|
+
+- 과제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 4|BFS|구현, 그래프 이론, 그래프 탐색, 시뮬레이션|
+
+
+-----------------------------------
+### [ 6주차 ]
+- 분류: [DP]
+- 일자: 2024.02.10
+- 문제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준||||||
+|2|백준||||||
+|3|백준||||||
 
 - 과제:
 
