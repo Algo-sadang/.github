@@ -164,7 +164,7 @@
 
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[25418](https://www.acmicpc.net/problem/25418)|정수 a를 k로 만들기|Silver 3|BFS|그래프 이론, 그래프 탐색, 다이나믹 프로그래밍|
+|1|백준|[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|Silver 1|BFS|그래프 이론, 그래프 탐색|
 |2|백준|[25416](https://www.acmicpc.net/problem/25416)|빠른 숫자 탐색|Silver 2|BFS|그래프 이론, 그래프 탐색|
 |3|백준|[6146](https://www.acmicpc.net/problem/6146)|신아를 만나러|Silver 1|BFS|그래프 이론, 그래프 탐색|
 
