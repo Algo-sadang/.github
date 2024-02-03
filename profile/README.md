@@ -14,16 +14,18 @@
 # **[ 📋 정보 ]**
 
 - 기간: 2024.01.06 ~ 
-- 인원: 5명
+- 인원: 6명
 - 장소: 원루프 스터디룸 사당점 (대면 오프라인 스터디)
 - 시간: 13:00 - 15:00
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
-|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/7lo9ve3" width="130px;" style="max-width: 100%;">](https://github.com/7lo9ve3)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|[<img src="https://avatars.githubusercontent.com/Hyesooo" width="130px;" style="max-width: 100%;">](https://github.com/Hyesooo)|
+|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|[<img src="https://avatars.githubusercontent.com/Hyesooo" width="130px;" style="max-width: 100%;">](https://github.com/Hyesooo)|[<img src="https://avatars.githubusercontent.com/overthename" width="130px;" style="max-width: 100%;">](https://github.com/overthename)|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-|이름|홍희표|권동휘|김다은|안인경|성보경|김혜수|
+|이름|홍희표|권동휘|김다은|성보경|김혜수|박지혜|
 |주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>||
-|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=7lo9ve3)](https://solved.ac/7lo9ve3)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyesookim95)](https://solved.ac/hyesookim95)|
+|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyesookim95)](https://solved.ac/hyesookim95)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=overthename)](https://solved.ac/overthename)|
+
+- 중도이탈자: [안인경](https://github.com/7lo9ve3)
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
@@ -32,13 +34,14 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|홍희표|권동휘|김다은|안인경|성보경|김혜수|
+|일시|홍희표|권동휘|김다은|성보경|김혜수|박지혜|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[2024.01.06]|✅|✅|✅|✅|✅||
-|[2024.01.13]|✅|✅|✅|✅|✅||
-|[2024.01.20]|✅|✅|✅|⚠️|✅|:octocat:|
-|[2024.01.27]|✅|✅|⚠️|❌|✅|✅|
-|[2024.02.03]|||||||
+|[2024.01.06]|✅|✅|✅|✅|||
+|[2024.01.13]|✅|✅|✅|✅|||
+|[2024.01.20]|✅|✅|✅|✅|:octocat:||
+|[2024.01.27]|✅|✅|⚠️|✅|✅|:octocat:|
+|[2024.02.03]|✅|✅|✅|✅|✅|✅|
+|[2024.02.17]|||||||
 
 # **[ 📚 ‍과제 해결 이력 ]**
 
@@ -85,7 +88,7 @@
 - 일자: 2024.01.06
 - 문제:
   
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[10828](https://www.acmicpc.net/problem/10828)|스택|Silver 4|스택|구현, 자료구조|
 |2|백준|[10773](https://www.acmicpc.net/problem/10773)|제로|Silver 4|스택|구현, 자료구조|
@@ -93,7 +96,7 @@
 
 - 과제:
  
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|스택|자료구조|
 |2|백준|[2841](https://www.acmicpc.net/problem/2841)|외계인의 기타연주|Silver 1|스택|자료구조|
@@ -104,7 +107,7 @@
 - 일자: 2024.01.13
 - 문제: 
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[10845](https://www.acmicpc.net/problem/10845)|큐|Silver 4|큐|자료구조|
 |2|백준|[11866](https://www.acmicpc.net/problem/11866)|요세푸스|Silver 5|큐|구현, 자료구조|
@@ -112,7 +115,7 @@
     
 - 과제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[29813](https://www.acmicpc.net/problem/29813)|최애의 팀원|Silver 3|큐|구현, 자료구조, 시뮬레이션|
 |2|백준|[5464](https://www.acmicpc.net/problem/5464)|주차장|Silver 2|큐|구현, 자료구조, 시뮬레이션|
@@ -123,7 +126,7 @@
 - 일자: 2024.01.20
 - 문제: 
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[10866](https://www.acmicpc.net/problem/10886)|덱|Silver 4|데크|구현, 자료구조|
 |2|백준|[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|Silver 3|데크|자료구조|
@@ -131,7 +134,7 @@
     
 - 과제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|스택|구현, 자료구조, 시뮬레이션, 덱, 큐|
 
@@ -143,7 +146,7 @@
 - 일자: 2024.01.27
 - 문제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[10974](https://www.acmicpc.net/problem/10974)|모든 순열|Silver 3|백트래킹|브루트포스|
 |2|백준|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|깊이 우선 탐색|그래프 이론, 그래프 탐색, 너비 우선 탐색|
@@ -151,7 +154,7 @@
 
 - 과제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|Silver 2|백트래킹|브루트포스|
 |2|백준|[21937](https://www.acmicpc.net/problem/21937)|작업|Silver 1|깊이 우선 탐색|그래프 이론, 그래프 탐색|
@@ -162,7 +165,7 @@
 - 일자: 2024.02.03
 - 문제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|Silver 1|너비 우선 탐색|그래프 이론, 그래프 탐색|
 |2|백준|[25416](https://www.acmicpc.net/problem/25416)|빠른 숫자 탐색|Silver 2|너비 우선 탐색|그래프 이론, 그래프 탐색|
@@ -170,10 +173,10 @@
 
 - 과제:
 
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 4|너비 우선 탐색|구현, 그래프 이론, 그래프 탐색, 시뮬레이션|
-
+|1|백준|[14562](https://www.acmicpc.net/problem/14562)|태권왕|Silver 1|너비 우선 탐색|그래프 이론, 그래프 탐색|
+|2|백준|[2636](https://www.acmicpc.net/problem/2636)|치즈|Gold 4|너비 우선 탐색|구현, 그래프 이론, 그래프 탐색, 시뮬레이션|
 
 -----------------------------------
 ### [ 6주차 ]
@@ -181,7 +184,26 @@
 - 일자: 2024.02.17
 - 문제:
 
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[1747](https://www.acmicpc.net/problem/1747)|소수&팰린드롬|Silver 1|브루트포스|수학, 정수론, 소수 판정, 에라토스테네스의 체|
+|2|백준|[18111](https://www.acmicpc.net/problem/18111)|마인크래프트|Silver 2|브루트포스|구현|
+|3|백준|[2651](https://www.acmicpc.net/problem/2615)|오목|Silver 1|브루트포스|구현|
+
+- 과제:
+
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준||||||
+
+
+-----------------------------------
+### [ 7주차 ]
+- 분류: [DP(Dynamic Programming)]
+- 일자: 2024.02.24
+- 문제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준||||||
 |2|백준||||||
