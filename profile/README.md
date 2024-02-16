@@ -19,13 +19,13 @@
 - 시간: 13:00 - 15:00
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
-|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/SeongBoKyung" width="130px;" style="max-width: 100%;">](https://github.com/SeongBoKyung)|[<img src="https://avatars.githubusercontent.com/Hyesooo" width="130px;" style="max-width: 100%;">](https://github.com/Hyesooo)|[<img src="https://avatars.githubusercontent.com/overthename" width="130px;" style="max-width: 100%;">](https://github.com/overthename)|
+|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/min9288" width="130px;" style="max-width: 100%;">](https://github.com/min9288)|[<img src="https://avatars.githubusercontent.com/Hyesooo" width="130px;" style="max-width: 100%;">](https://github.com/Hyesooo)|[<img src="https://avatars.githubusercontent.com/overthename" width="130px;" style="max-width: 100%;">](https://github.com/overthename)|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-|이름|홍희표|권동휘|김다은|성보경|김혜수|박지혜|
+|이름|홍희표|권동휘|김다은|정민우|김혜수|박지혜|
 |주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>||
 |티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/qhrud3500)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyesookim95)](https://solved.ac/hyesookim95)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=overthename)](https://solved.ac/overthename)|
 
-- 중도이탈자: [안인경](https://github.com/7lo9ve3)
+- 중도이탈자: [안인경](https://github.com/7lo9ve3), [성보경](https://github.com/SeongBoKyung)
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
@@ -34,7 +34,7 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|홍희표|권동휘|김다은|성보경|김혜수|박지혜|
+|일시|홍희표|권동휘|김다은|정민우|김혜수|박지혜|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[2024.01.06]|✅|✅|✅|✅|||
 |[2024.01.13]|✅|✅|✅|✅|||
