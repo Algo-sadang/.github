@@ -14,18 +14,18 @@
 # **[ 📋 정보 ]**
 
 - 기간: 2024.01.06 ~ 
-- 인원: 6명
+- 인원: 4명
 - 장소: 원루프 스터디룸 사당점 (대면 오프라인 스터디)
 - 시간: 13:00 - 15:00
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
-|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/min9288" width="130px;" style="max-width: 100%;">](https://github.com/min9288)|[<img src="https://avatars.githubusercontent.com/Hyesooo" width="130px;" style="max-width: 100%;">](https://github.com/Hyesooo)|[<img src="https://avatars.githubusercontent.com/overthename" width="130px;" style="max-width: 100%;">](https://github.com/overthename)|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|이름|홍희표|권동휘|김다은|정민우|김혜수|박지혜|
-|주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>||
-|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/min9288)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyesookim95)](https://solved.ac/hyesookim95)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=overthename)](https://solved.ac/overthename)|
+|Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/ARProxy" width="130px;" style="max-width: 100%;">](https://github.com/ARProxy)|[<img src="https://avatars.githubusercontent.com/DAEUN9" width="130px;" style="max-width: 100%;">](https://github.com/DAEUN9)|[<img src="https://avatars.githubusercontent.com/min9288" width="130px;" style="max-width: 100%;">](https://github.com/min9288)|
+|---|:---:|:---:|:---:|:---:|
+|이름|홍희표|권동휘|김다은|정민우|
+|주력언어|<span><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>|<span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>||
+|티어| [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=hong227)](https://solved.ac/hong227)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnqlsdld1)](https://solved.ac/tnqlsdld1)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd5687)](https://solved.ac/asd5687)|[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qhrud3500)](https://solved.ac/min9288)|
 
-- 중도이탈자: [안인경](https://github.com/7lo9ve3), [성보경](https://github.com/SeongBoKyung)
+- 중도이탈자: [안인경](https://github.com/7lo9ve3), [성보경](https://github.com/SeongBoKyung), [김혜수](https://github.com/Hyesooo), [박지혜](https://github.com/overthename)
 
 # **[ 👩‍💻 ‍스터디 참여 이력 ]**
 
@@ -34,15 +34,16 @@
 - ❌: 불참(사유: x)
 - :octocat:: 스터디 새 멤버
 
-|일시|홍희표|권동휘|김다은|정민우|김혜수|박지혜|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[2024.01.06]|✅|✅|✅|✅|||
-|[2024.01.13]|✅|✅|✅|✅|||
-|[2024.01.20]|✅|✅|✅|✅|:octocat:||
-|[2024.01.27]|✅|✅|⚠️|✅|✅|:octocat:|
-|[2024.02.03]|✅|✅|✅|✅|✅|✅|
-|[2024.02.17]|✅|✅|❌|❌|⚠️|❌|
-|[2024.02.24]|||||||
+|일시|홍희표|권동휘|김다은|정민우|
+|---|:---:|:---:|:---:|:---:|
+|[2024.01.06]|✅|✅|✅|✅|
+|[2024.01.13]|✅|✅|✅|✅|
+|[2024.01.20]|✅|✅|✅|✅|
+|[2024.01.27]|✅|✅|⚠️|✅|
+|[2024.02.03]|✅|✅|✅|✅|
+|[2024.02.17]|✅|✅|❌|❌|
+|[2024.02.24]|✅|✅|✅|✅|
+|[2024.03.02]|||||
 
 # **[ 📚 ‍과제 해결 이력 ]**
 
@@ -197,7 +198,6 @@
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[3085](https://www.acmicpc.net/problem/3085)|사탕게임|Silver 2|브루트포스|구현|
 
-
 -----------------------------------
 ### [ 7주차 ]
 - 분류: [DP(Dynamic Programming)]
@@ -215,8 +215,25 @@
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|Gold 5|다이나믹 프로그래밍||
 
+-----------------------------------
+### [ 8주차 ]
+- 분류: [누적합(Prefix Sum)]
+- 일자: 2024.03.02
+- 문제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
+|-|----|-----|-----|-----|-----|----------|
+|1|백준||||||
+|2|백준||||||
+|3|백준||||||
+
+- 과제:
+
+|No|플랫폼|문제번호|문제명|난이도|분류|부 분류
+|-|----|-----|-----|-----|-----|----------|
+|1|백준||||||
+
 이후 진행할 알고리즘들...
-- [ ]  8주차 누적합
 - [ ]  9주차 그리디
 - [ ]  10주차 이분탐색
 - [ ]  11주차 투포인터
