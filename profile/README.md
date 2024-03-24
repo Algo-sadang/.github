@@ -295,7 +295,7 @@
 
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[14496](https://www.acmicpc.net/problem/14496)|그대, 그머가 되어|Silver 2||그래프 탐색, BFS|
+|1|백준|[14496](https://www.acmicpc.net/problem/14496)|그대, 그머가 되어|Silver 2|다익스트라|그래프 탐색, BFS|
 |2|백준|[1446](https://www.acmicpc.net/problem/1446)|지름길|Silver 1|다익스트라|DP, 최단경로|
 
 - 과제:
